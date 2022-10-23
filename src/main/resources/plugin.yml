@@ -1,0 +1,9 @@
+name: Upgradableitem
+version: '${project.version}'
+main: me.xingyan.upgradableitem.Main
+api-version: 1.18
+commands:
+  upgradableitem:
+    usage: /<command>
+    aliases:
+      - upi
