@@ -25,5 +25,7 @@ Request:
   - Java Jdk 17
   - Maven
 ```
+git clone https://github.com/XingYanTW/upgradable-item.git
+cd upgradable-item
 maven package
 ```
